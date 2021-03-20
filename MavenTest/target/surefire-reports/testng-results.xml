@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2021-03-20T21:41:13 IST" finished-at="2021-03-20T21:41:13 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2021-03-20T21:41:13 IST" finished-at="2021-03-20T21:41:13 IST">
+      <class name="com.rkcompany.app.SDKTest">
+        <test-method status="PASS" signature="RestAPITest()[pri:0, instance:com.rkcompany.app.SDKTest@7085bdee]" name="RestAPITest" duration-ms="0" started-at="2021-03-20T21:41:13 IST" finished-at="2021-03-20T21:41:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest -->
+      </class> <!-- com.rkcompany.app.SDKTest -->
+      <class name="com.rkcompany.app.RestAPITest">
+        <test-method status="PASS" signature="RestAPITest()[pri:0, instance:com.rkcompany.app.RestAPITest@5f341870]" name="RestAPITest" duration-ms="3" started-at="2021-03-20T21:41:13 IST" finished-at="2021-03-20T21:41:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest -->
+      </class> <!-- com.rkcompany.app.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
