@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15" started-at="2021-03-20T06:51:20Z" finished-at="2021-03-20T06:51:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15" started-at="2021-03-20T06:51:20Z" finished-at="2021-03-20T06:51:20Z">
+      <class name="sampletestng.BeforeAfterTest">
+        <test-method status="PASS" signature="BeforeHelloTestSuite()[pri:0, instance:sampletestng.BeforeAfterTest@7f9a81e8]" name="BeforeHelloTestSuite" is-config="true" duration-ms="7" started-at="2021-03-20T06:51:20Z" finished-at="2021-03-20T06:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeHelloTestSuite -->
+        <test-method status="PASS" signature="BeforeHelloTest()[pri:0, instance:sampletestng.BeforeAfterTest@7f9a81e8]" name="BeforeHelloTest" is-config="true" duration-ms="0" started-at="2021-03-20T06:51:20Z" finished-at="2021-03-20T06:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeHelloTest -->
+        <test-method status="PASS" signature="HelloTest()[pri:0, instance:sampletestng.BeforeAfterTest@7f9a81e8]" name="HelloTest" duration-ms="4" started-at="2021-03-20T06:51:20Z" finished-at="2021-03-20T06:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HelloTest -->
+        <test-method status="PASS" signature="AfterHelloTest()[pri:0, instance:sampletestng.BeforeAfterTest@7f9a81e8]" name="AfterHelloTest" is-config="true" duration-ms="0" started-at="2021-03-20T06:51:20Z" finished-at="2021-03-20T06:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterHelloTest -->
+        <test-method status="PASS" signature="AfterHelloTestSuite()[pri:0, instance:sampletestng.BeforeAfterTest@7f9a81e8]" name="AfterHelloTestSuite" is-config="true" duration-ms="0" started-at="2021-03-20T06:51:20Z" finished-at="2021-03-20T06:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterHelloTestSuite -->
+      </class> <!-- sampletestng.BeforeAfterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
