@@ -1,0 +1,4 @@
+09:00:12.306 [main] DEBUG beta.DemoBetaLogging - Iam Debugging
+09:00:12.308 [main] INFO  beta.DemoBetaLogging - Iam Info
+09:00:12.308 [main] ERROR beta.DemoBetaLogging - Iam Error
+09:00:12.308 [main] FATAL beta.DemoBetaLogging - This a fatal
