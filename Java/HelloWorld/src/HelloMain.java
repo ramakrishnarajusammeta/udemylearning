@@ -4,7 +4,6 @@ import java.util.List;
 import ResourceEngineers.Person;
 import computer.*;
 import packagephones.Nokia;
-import packagephones.Phone;
 import packagephones.Samsung;
 
 public class HelloMain {
@@ -24,7 +23,7 @@ public class HelloMain {
         
         Person SRKRaju = new Person();
         System.out.println(SRKRaju);
-        */
+        
         
         //Phone nokia3310 = new Nokia("Nokia_3310");
         Phone nokia3310 = new HelloMain().phone(1);
@@ -47,12 +46,20 @@ public class HelloMain {
         phones.add(nokia3310);
         phones.add(note8);
         phones.add(note8_1);
-        listPhones(phones);
+        listPhones(phones);*/
+        
+        
+       // Phone phone = new OnePlus5();
+        Phone phone = new iPhone();
+        System.out.println("Processor: " + phone.processor());
+        
     }
     
     
     
-    public static void listPhones(List<Phone> Phones) {
+    
+    
+    /*public static void listPhones(List<Phone> Phones) {
     	for (Phone phone:Phones) {
     		System.out.println(phone.getModel());
     	}
@@ -65,5 +72,5 @@ public class HelloMain {
     	
     	}
 		return null;
-    }
+    }*/
 }

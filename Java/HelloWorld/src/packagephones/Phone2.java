@@ -1,9 +1,9 @@
 package packagephones;
 
-public class Phone {
+public class Phone2 {
 	private String model;
 	
-	public Phone(String model) {
+	public Phone2(String model) {
 		this.model = model;
 	}
 	
