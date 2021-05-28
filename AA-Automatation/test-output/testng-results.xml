@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16577" started-at="2021-03-23T16:32:57Z" finished-at="2021-03-23T16:33:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16577" started-at="2021-03-23T16:32:57Z" finished-at="2021-03-23T16:33:14Z">
+      <class name="testcases.GlobalAdminLoginTest">
+        <test-method status="PASS" signature="LoginGlobalAdmin()[pri:0, instance:testcases.GlobalAdminLoginTest@58651fd0]" name="LoginGlobalAdmin" duration-ms="9089" started-at="2021-03-23T16:32:57Z" finished-at="2021-03-23T16:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginGlobalAdmin -->
+      </class> <!-- testcases.GlobalAdminLoginTest -->
+      <class name="testcases.MasterAdminLoginTest">
+        <test-method status="PASS" signature="LoignMasterAdmin()[pri:0, instance:testcases.MasterAdminLoginTest@4520ebad]" name="LoignMasterAdmin" duration-ms="7473" started-at="2021-03-23T16:33:06Z" finished-at="2021-03-23T16:33:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoignMasterAdmin -->
+      </class> <!-- testcases.MasterAdminLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
