@@ -17,6 +17,7 @@ public class App {
 		int tempInt = demo.pop();
 		System.out.println("Deleted Integer:" + tempInt);
 		
+		
 	}
 
 }
