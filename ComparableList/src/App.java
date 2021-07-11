@@ -42,7 +42,7 @@ public class App {
 		app.printList(names);
 		
 		Collections.sort(names);
-		System.out.println("*********");
+		System.out.println("**********");
 		app.printList(names);
 	}
 	
